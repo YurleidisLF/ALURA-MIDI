@@ -1,22 +1,11 @@
-## Proyecto del Curso de JavaScript para Web: Crea páginas dinámicas
+## Proyecto del Curso de JavaScript para la Web: Creación de Páginas Dinámicas en Alura Latam
 
-El proyecto del curso es el Alura Midi que es un instrumento musical de interfaz digital al cual le agregaremos las funcionalidades en el transcurso del curso. 
+El proyecto correspondiente a este curso es el Alura Midi, un instrumento musical con una interfaz digital. 
 
  
-## Comenzando 🚀
+## Inicio 🚀
 
-Este repositorio contiene varias Branch. 
-
-Cada Branch esta identificada con el nombre aula y el numero del aula correspondiente. 
-
-Ejemplo:  **aula-1**
-
-*En la rama principal (main) se encuentra el código base del proyecto para que pueda descargarlo e ir construyendo el codigo con el pasar de las aulas.*
-
-### Pre-requisitos y uso 📋
-
-Descarga el código que necesites seleccionando la Branch dentro de este repositorio y ábrelo con tu editor de código favorito. 
-
+Haga clic en el enlace proporcionado para acceder a la página donde podrá interactuar con la interfaz.
 
 ---
  Con :blue_heart: 
